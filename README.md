@@ -30,6 +30,6 @@ Therefore, rather than asking you to download zip files and manually load unpack
 
 
 
-<img src="demo.gif" width="400" alt="Deflater Extension Demo" />
+<img src="demo.gif" width="400" alt="Deflater Extension Demo" />       <img src="demo2.gif" width="400" alt="Deflater Extension Demo" />
 
 
