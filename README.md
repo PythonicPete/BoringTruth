@@ -27,6 +27,9 @@ While $5 is a reasonable price for global distribution,But My currently budget i
 Therefore, rather than asking you to download zip files and manually load unpacked developer environments, I have provided high-definition visual proof below that this architecture works flawlessly.
 
 📸 Proof of Concept (GIF)
+
+
+
 <img src="demo.gif" width="400" alt="Deflater Extension Demo" />
 
 
