@@ -1,5 +1,4 @@
-![Uploading LetsGoApplauseGIFbyEmmys.gif…]()
- Clickbait Deflater (AI Chrome Extension)
+Clickbait Deflater (AI Chrome Extension)
 
 An AI-powered browser extension that dynamically translates sensationalized, clickbait YouTube titles into boring, factual truth in real-time.
 
@@ -23,7 +22,7 @@ Styling: Custom CSS3 with hardware-accelerated filters (blur, contrast, saturate
 
 To officially publish an extension for a 1-click install, Google requires a one-time $5.00 Developer Registration Fee.
 
-While $5 is a reasonable price for global distribution, I am currently operating on an engineering budget of exactly $0.00 (supplemented only by whatever loose change I occasionally find in my couch cushions).
+While $5 is a reasonable price for global distribution,But My currently budget is exactly $0.00 🥲
 
 Therefore, rather than asking you to download zip files and manually load unpacked developer environments, I have provided high-definition visual proof below that this architecture works flawlessly.
 
