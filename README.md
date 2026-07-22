@@ -46,7 +46,7 @@ This project is built for speed, relying on modern web APIs and avoiding bloated
 
 To officially publish an extension to the Chrome Web Store for a 1-click install, Google requires a one-time **$5.00 Developer Registration Fee**.
 
-While $5 is a totally reasonable price for global distribution... my current development budget is exactly **$0.00** 🥲.
+While $5 is a totally reasonable price for global distribution... my current projects budget is exactly **$0.00** 🥲.
 
 Therefore, rather than asking you to download ZIP files, toggle Chrome's "Developer Mode," and manually load unpacked environments, I have provided high-definition visual proof below that this architecture works flawlessly.
 
@@ -54,15 +54,7 @@ Therefore, rather than asking you to download ZIP files, toggle Chrome's "Develo
 
 ## 📸 Visual Proof
 
-> **[ ⚠️ Note to reader: Insert your GIF or video demonstration here ]**
 
-<div align="center">
-  
-  <img src="https://via.placeholder.com/800x450.png?text=Add+Your+GIF+Here" alt="Demo of Clickbait Deflater in action" width="800"/>
-
-  *Hovering over a title instantly replaces the hype with the facts.*
-</div>
-📸 Proof of Concept (GIF)
 
 
 
